@@ -1,0 +1,26 @@
+body {
+    background-color: #ecece7;
+    cursor: crosshair;
+}
+div {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+img {
+    border-style: solid;
+    border-color:black;
+    margin:auto;
+    display: block;
+}
+hr {
+    border-style: solid;
+    border-color:black;
+}
+ul {
+    list-style-position: inside;
+}
+h1, h2 {
+    text-align: center;
+} 
+.crosshair {
+    cursor:crosshair
+}
